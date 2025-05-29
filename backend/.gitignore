@@ -1,0 +1,19 @@
+/target
+/.idea
+*.iml
+*.class
+*.log
+*.jar
+*.war
+*.db
+.DS_Store
+*.swp
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Maven
+log/
+logs/
